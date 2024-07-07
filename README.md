@@ -1,10 +1,18 @@
-### Hey! Nice to see you.
+# Hey! Nice to see you.
 
 My name is Alban Petit, and I am a passionate French Fullstack web developer. Interested in various fields, I am currently responsible for an engineering office that offers a range of technical services, including electronics, programming, and digital manufacturing.
 
 In my repositories, you can find various personal projects ranging from web development to embedded development, including electronic projects.
 
-## Things I use
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albanpetit&layout=donut&theme=transparent)](https://github.com/albanpetit/github-readme-stats) ![Alban's GitHub stats](https://github-readme-stats.vercel.app/api?username=albanpetit&show_icons=true&theme=transparent) 
+
+# albanpetit.com
+
+I maintain a personal blog on which  I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world, some tutorials, experiences, and information are also available.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=albanpetit&repo=albanpetit.com&theme=transparent)](https://github.com/albanpetit/albanpetit.com)
+
+# Things I use
 
 ### Web development
 
