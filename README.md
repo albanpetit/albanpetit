@@ -10,7 +10,7 @@ In my repositories, you can find various personal projects ranging from web deve
 
 I maintain a personal blog on which  I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world, some tutorials, experiences, and information are also available.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=albanpetit&repo=albanpetit.com&theme=transparent)](https://github.com/albanpetit/albanpetit.com)
+[![albanpetit.com](https://github-readme-stats.vercel.app/api/pin/?username=albanpetit&repo=albanpetit.com&theme=transparent)](https://github.com/albanpetit/albanpetit.com)
 
 # Things I use
 
@@ -67,3 +67,13 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+
+# Latest projects
+
+<a href="https://github.com/albanpetit/adxl335">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albanpetit&repo=adxl335&theme=transparent" />
+</a>
+<a href="https://github.com/albanpetit/aeronaut-ghost-theme">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albanpetit&repo=aeronaut-ghost-theme&theme=transparent" />
+</a>
