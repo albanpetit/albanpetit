@@ -71,11 +71,9 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 # Latest projects
 
-<div style="display: flex; flex-wrap: wrap;">
-  <a style="flex-grow: 1; min-width:300px;" href="https://github.com/albanpetit/adxl335">
-    <img height=170 width=100% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albanpetit&repo=adxl335&theme=transparent" />
-  </a>
-  <a style="flex-grow: 1; min-width:300px;" href="https://github.com/albanpetit/aeronaut-ghost-theme">
-    <img height=170 width=100% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albanpetit&repo=aeronaut-ghost-theme&theme=transparent" />
-  </a>
-</div>
+<a href="https://github.com/albanpetit/adxl335">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albanpetit&repo=adxl335&theme=transparent" />
+</a>
+<a href="https://github.com/albanpetit/aeronaut-ghost-theme">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albanpetit&repo=aeronaut-ghost-theme&theme=transparent" />
+</a>
