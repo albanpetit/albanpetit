@@ -77,3 +77,8 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 <a href="https://github.com/albanpetit/aeronaut-ghost-theme">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albanpetit&repo=aeronaut-ghost-theme&theme=transparent" />
 </a>
+<a href="https://github.com/albanpetit/esp32-thermal-printer">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=albanpetit&repo=esp32-thermal-printer&theme=transparent" />
+</a>
+
+
