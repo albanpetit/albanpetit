@@ -18,47 +18,42 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 [![albanpetit.com](https://github-readme-stats.vercel.app/api/pin/?username=albanpetit&repo=albanpetit.com&theme=transparent)](https://github.com/albanpetit/albanpetit.com)
 
 ---
-
-{{- $recentContributions := recentContributions 5 -}}
-{{- $recentRepos := recentRepos 5 -}}
-{{- $recentReleases := recentReleases 5 -}}
-{{- $recentPullRequests := recentPullRequests 5 -}}
-{{- $recentStars := recentStars 5 -}}
-
-{{ if gt (len $recentContributions) 0 }}
 ## 👷 Check out what I'm currently working on
-{{range $recentContributions}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-{{ end }}
 
-{{ if gt (len $recentRepos) 0 }}
+- [albanpetit/10inch-rack](https://github.com/albanpetit/10inch-rack) -  (1 day ago)
+- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 week ago)
+- [albanpetit/3d-printed-projects](https://github.com/albanpetit/3d-printed-projects) - Here is the repository where I share my 3D printing creations and designs. Here, you&#39;ll find models, 3MF files, instructions, and tips to help you successfully print your projects. (2 weeks ago)
+- [albanpetit/esp32-thermal-printer](https://github.com/albanpetit/esp32-thermal-printer) -  (3 months ago)
+- [albanpetit/adxl335](https://github.com/albanpetit/adxl335) - Here is the repository of one of my electronic projects, a rather simple electronic card around a MEMS accelerometer: ADXL335. MEMS accelerometers are compact devices that exploit microfabrication technology to integrate mechanical elements, sensors, actuators, and electronics on a tiny silicon chip.  (9 months ago)
+
+
+
 ## 🌱 My latest projects
-{{range $recentRepos}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-{{ end }}
 
-{{ if gt (len $recentReleases) 0 }}
-## 🔭 Latest releases I've contributed to
-{{range $recentReleases}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-{{ end }}
+- [albanpetit/10inch-rack](https://github.com/albanpetit/10inch-rack) - 
+- [albanpetit/3d-printed-projects](https://github.com/albanpetit/3d-printed-projects) - Here is the repository where I share my 3D printing creations and designs. Here, you&#39;ll find models, 3MF files, instructions, and tips to help you successfully print your projects.
+- [albanpetit/esp32-thermal-printer](https://github.com/albanpetit/esp32-thermal-printer) - 
+- [albanpetit/adxl335](https://github.com/albanpetit/adxl335) - Here is the repository of one of my electronic projects, a rather simple electronic card around a MEMS accelerometer: ADXL335. MEMS accelerometers are compact devices that exploit microfabrication technology to integrate mechanical elements, sensors, actuators, and electronics on a tiny silicon chip. 
+- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available.
 
-{{ if gt (len $recentPullRequests) 0 }}
+
+
+
+
 ## 🔨 My recent Pull Requests
-{{range $recentPullRequests}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-{{ end }}
 
-{{ if gt (len $recentStars) 0 }}
+- [README update of container host OS support](https://github.com/prenone/platformio-vscode-devcontainer/pull/10) on [prenone/platformio-vscode-devcontainer](https://github.com/prenone/platformio-vscode-devcontainer) (9 months ago)
+
+
+
 ## ⭐ Recent Stars
-{{range $recentStars}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-{{ end }}
+
+- [albanpetit/albanpetit.com-theme](https://github.com/albanpetit/albanpetit.com-theme) - Card-style Hugo theme designed for bloggers (1 week ago)
+- [PricelessToolkit/ESPBell-MAX](https://github.com/PricelessToolkit/ESPBell-MAX) - Intercom / Doorbell IoT Module (3 months ago)
+- [PricelessToolkit/SOILSENS-V5W](https://github.com/PricelessToolkit/SOILSENS-V5W) - Wireless Soil Moisture Sensor (3 months ago)
+- [PricelessToolkit/CapiBridge](https://github.com/PricelessToolkit/CapiBridge) - Gateway between WIFI / LoRa / ESPNOW (3 months ago)
+- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (3 months ago)
+
 
 # Things I use
 
