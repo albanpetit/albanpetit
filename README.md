@@ -20,7 +20,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/10inch-rack](https://github.com/albanpetit/10inch-rack) -  (1 day ago)
+- [albanpetit/10inch-rack](https://github.com/albanpetit/10inch-rack) -  (2 days ago)
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 week ago)
 - [albanpetit/3d-printed-projects](https://github.com/albanpetit/3d-printed-projects) - Here is the repository where I share my 3D printing creations and designs. Here, you&#39;ll find models, 3MF files, instructions, and tips to help you successfully print your projects. (2 weeks ago)
 - [albanpetit/esp32-thermal-printer](https://github.com/albanpetit/esp32-thermal-printer) -  (3 months ago)
@@ -48,11 +48,11 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## ⭐ Recent Stars
 
+- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (1 day ago)
 - [albanpetit/albanpetit.com-theme](https://github.com/albanpetit/albanpetit.com-theme) - Card-style Hugo theme designed for bloggers (1 week ago)
 - [PricelessToolkit/ESPBell-MAX](https://github.com/PricelessToolkit/ESPBell-MAX) - Intercom / Doorbell IoT Module (3 months ago)
 - [PricelessToolkit/SOILSENS-V5W](https://github.com/PricelessToolkit/SOILSENS-V5W) - Wireless Soil Moisture Sensor (3 months ago)
 - [PricelessToolkit/CapiBridge](https://github.com/PricelessToolkit/CapiBridge) - Gateway between WIFI / LoRa / ESPNOW (3 months ago)
-- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (3 months ago)
 
 
 # Things I use
