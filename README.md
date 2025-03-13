@@ -21,7 +21,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ## 👷 Check out what I'm currently working on
 
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 day ago)
-- [albanpetit/10inch-rack](https://github.com/albanpetit/10inch-rack) -  (2 days ago)
+- [albanpetit/10inch-rack](https://github.com/albanpetit/10inch-rack) -  (3 days ago)
 - [albanpetit/3d-printed-projects](https://github.com/albanpetit/3d-printed-projects) - Here is the repository where I share my 3D printing creations and designs. Here, you&#39;ll find models, 3MF files, instructions, and tips to help you successfully print your projects. (3 weeks ago)
 - [albanpetit/esp32-thermal-printer](https://github.com/albanpetit/esp32-thermal-printer) -  (3 months ago)
 - [albanpetit/adxl335](https://github.com/albanpetit/adxl335) - Here is the repository of one of my electronic projects, a rather simple electronic card around a MEMS accelerometer: ADXL335. MEMS accelerometers are compact devices that exploit microfabrication technology to integrate mechanical elements, sensors, actuators, and electronics on a tiny silicon chip.  (9 months ago)
@@ -48,7 +48,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## ⭐ Recent Stars
 
-- [axiometa/BrodBoost-PD](https://github.com/axiometa/BrodBoost-PD) - Breadboard Powersupply with Power Delivery. Available Voltages 20,15,12,9,5. Based on CYPD3177 Chip (4 days ago)
+- [axiometa/BrodBoost-PD](https://github.com/axiometa/BrodBoost-PD) - Breadboard Powersupply with Power Delivery. Available Voltages 20,15,12,9,5. Based on CYPD3177 Chip (5 days ago)
 - [loco-rs/loco-devcontainer](https://github.com/loco-rs/loco-devcontainer) -  (1 week ago)
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning (1 week ago)
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (1 week ago)
