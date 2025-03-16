@@ -20,10 +20,10 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/makerflow](https://github.com/albanpetit/makerflow) -  (1 day ago)
-- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (3 days ago)
-- [albanpetit/10inch-rack](https://github.com/albanpetit/10inch-rack) -  (5 days ago)
-- [albanpetit/3d-printed-projects](https://github.com/albanpetit/3d-printed-projects) - Here is the repository where I share my 3D printing creations and designs. Here, you&#39;ll find models, 3MF files, instructions, and tips to help you successfully print your projects. (4 weeks ago)
+- [albanpetit/makerflow](https://github.com/albanpetit/makerflow) -  (2 days ago)
+- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (4 days ago)
+- [albanpetit/10inch-rack](https://github.com/albanpetit/10inch-rack) -  (6 days ago)
+- [albanpetit/3d-printed-projects](https://github.com/albanpetit/3d-printed-projects) - Here is the repository where I share my 3D printing creations and designs. Here, you&#39;ll find models, 3MF files, instructions, and tips to help you successfully print your projects. (1 month ago)
 - [albanpetit/esp32-thermal-printer](https://github.com/albanpetit/esp32-thermal-printer) -  (3 months ago)
 
 
