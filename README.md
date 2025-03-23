@@ -52,7 +52,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 - [loco-rs/loco-devcontainer](https://github.com/loco-rs/loco-devcontainer) -  (2 weeks ago)
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning (2 weeks ago)
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (2 weeks ago)
-- [albanpetit/albanpetit.com-theme](https://github.com/albanpetit/albanpetit.com-theme) - Card-style Hugo theme designed for bloggers (4 weeks ago)
+- [albanpetit/albanpetit.com-theme](https://github.com/albanpetit/albanpetit.com-theme) - Card-style Hugo theme designed for bloggers (1 month ago)
 
 
 # Things I use
