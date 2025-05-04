@@ -42,7 +42,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## 🔨 My recent Pull Requests
 
-- [README update of container host OS support](https://github.com/prenone/platformio-vscode-devcontainer/pull/10) on [prenone/platformio-vscode-devcontainer](https://github.com/prenone/platformio-vscode-devcontainer) (11 months ago)
+- [README update of container host OS support](https://github.com/prenone/platformio-vscode-devcontainer/pull/10) on [prenone/platformio-vscode-devcontainer](https://github.com/prenone/platformio-vscode-devcontainer) (1 year ago)
 
 
 
