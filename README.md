@@ -20,7 +20,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/10inch-rack](https://github.com/albanpetit/10inch-rack) -  (3 days ago)
+- [albanpetit/10inch-rack](https://github.com/albanpetit/10inch-rack) -  (4 days ago)
 - [albanpetit/paperflux](https://github.com/albanpetit/paperflux) -  (1 week ago)
 - [albanpetit/makerflow](https://github.com/albanpetit/makerflow) -  (2 months ago)
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (2 months ago)
@@ -48,7 +48,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## ⭐ Recent Stars
 
-- [30350n/pcb2blender](https://github.com/30350n/pcb2blender) - KiCad to Blender 3D model workflow (4 weeks ago)
+- [30350n/pcb2blender](https://github.com/30350n/pcb2blender) - KiCad to Blender 3D model workflow (1 month ago)
 - [CentyLab/RotoPD](https://github.com/CentyLab/RotoPD) - Repo for RotoPD hardware and documentation (2 months ago)
 - [axiometa/BrodBoost-PD](https://github.com/axiometa/BrodBoost-PD) - Breadboard Powersupply with Power Delivery. Available Voltages 20,15,12,9,5. Based on CYPD3177 Chip (3 months ago)
 - [loco-rs/loco-devcontainer](https://github.com/loco-rs/loco-devcontainer) -  (3 months ago)
