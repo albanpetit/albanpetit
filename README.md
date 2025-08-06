@@ -48,7 +48,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## ⭐ Recent Stars
 
-- [30350n/pcb2blender](https://github.com/30350n/pcb2blender) - KiCad to Blender 3D model workflow (2 months ago)
+- [30350n/pcb2blender](https://github.com/30350n/pcb2blender) - KiCad to Blender 3D model workflow (3 months ago)
 - [CentyLab/RotoPD](https://github.com/CentyLab/RotoPD) - Repo for RotoPD hardware and documentation (4 months ago)
 - [axiometa/BrodBoost-PD](https://github.com/axiometa/BrodBoost-PD) - Breadboard Powersupply with Power Delivery. Available Voltages 20,15,12,9,5. Based on CYPD3177 Chip (5 months ago)
 - [loco-rs/loco-devcontainer](https://github.com/loco-rs/loco-devcontainer) -  (5 months ago)
