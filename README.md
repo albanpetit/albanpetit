@@ -20,7 +20,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/macropad](https://github.com/albanpetit/macropad) -  (1 day ago)
+- [albanpetit/macropad](https://github.com/albanpetit/macropad) -  (2 days ago)
 - [albanpetit/3d-printed-projects](https://github.com/albanpetit/3d-printed-projects) - Here is the repository where I share my 3D printing creations and designs. Here, you&#39;ll find models, 3MF files, instructions, and tips to help you successfully print your projects. (1 month ago)
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 month ago)
 - [albanpetit/10inch-rack](https://github.com/albanpetit/10inch-rack) -  (2 months ago)
@@ -50,7 +50,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 - [30350n/pcb2blender](https://github.com/30350n/pcb2blender) - KiCad to Blender 3D model workflow (3 months ago)
 - [CentyLab/RotoPD](https://github.com/CentyLab/RotoPD) - Repo for RotoPD hardware and documentation (5 months ago)
-- [axiometa/BrodBoost-PD](https://github.com/axiometa/BrodBoost-PD) - Breadboard Powersupply with Power Delivery. Available Voltages 20,15,12,9,5. Based on CYPD3177 Chip (5 months ago)
+- [axiometa/BrodBoost-PD](https://github.com/axiometa/BrodBoost-PD) - Breadboard Powersupply with Power Delivery. Available Voltages 20,15,12,9,5. Based on CYPD3177 Chip (6 months ago)
 - [loco-rs/loco-devcontainer](https://github.com/loco-rs/loco-devcontainer) -  (6 months ago)
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning (6 months ago)
 
