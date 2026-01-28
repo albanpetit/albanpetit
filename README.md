@@ -49,7 +49,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 - [inertiajs/inertia-rails](https://github.com/inertiajs/inertia-rails) - The Rails adapter for Inertia.js. (1 month ago)
 - [axiometa/BrodBoost-PD](https://github.com/axiometa/BrodBoost-PD) - Breadboard Powersupply with Power Delivery. Available Voltages 20,15,12,9,5. Based on CYPD3177 Chip (10 months ago)
-- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning (10 months ago)
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning (11 months ago)
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (11 months ago)
 - [PricelessToolkit/ESPBell-MAX](https://github.com/PricelessToolkit/ESPBell-MAX) - Intercom / Doorbell IoT Module (1 year ago)
 
