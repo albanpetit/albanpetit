@@ -4,9 +4,18 @@ My name is Alban Petit, and I am a passionate French Fullstack web developer. In
 
 In my repositories, you can find various personal projects ranging from web development to embedded development, including electronic projects.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albanpetit&layout=donut&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=albanpetit&show_icons=true&theme=transparent" />
+</a>
+
 ## albanpetit.com
 
 I maintain a personal blog on which  I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world, some tutorials, experiences, and information are also available.
+
+[![albanpetit.com](https://github-readme-stats.vercel.app/api/pin/?username=albanpetit&repo=albanpetit.com&theme=transparent)](https://github.com/albanpetit/albanpetit.com)
 
 ---
 ## 👷 Check out what I'm currently working on
