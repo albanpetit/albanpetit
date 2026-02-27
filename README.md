@@ -11,8 +11,8 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [Makerspace-Amiens/electronic-design](https://github.com/Makerspace-Amiens/electronic-design) -  (2 days ago)
-- [Makerspace-Amiens/kicad-library](https://github.com/Makerspace-Amiens/kicad-library) -  (3 days ago)
+- [Makerspace-Amiens/electronic-design](https://github.com/Makerspace-Amiens/electronic-design) -  (3 days ago)
+- [Makerspace-Amiens/kicad-library](https://github.com/Makerspace-Amiens/kicad-library) -  (4 days ago)
 - [albanpetit/macropad](https://github.com/albanpetit/macropad) -  (3 months ago)
 - [albanpetit/3d-printed-projects](https://github.com/albanpetit/3d-printed-projects) - Here is the repository where I share my 3D printing creations and designs. Here, you&#39;ll find models, 3MF files, instructions, and tips to help you successfully print your projects. (7 months ago)
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (7 months ago)
@@ -41,7 +41,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 - [inertiajs/inertia-rails](https://github.com/inertiajs/inertia-rails) - The Rails adapter for Inertia.js. (2 months ago)
 - [axiometa/BrodBoost-PD](https://github.com/axiometa/BrodBoost-PD) - Breadboard Powersupply with Power Delivery. Available Voltages 20,15,12,9,5. Based on CYPD3177 Chip (11 months ago)
-- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning (11 months ago)
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning (1 year ago)
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (1 year ago)
 - [PricelessToolkit/ESPBell-MAX](https://github.com/PricelessToolkit/ESPBell-MAX) - Intercom / Doorbell IoT Module (1 year ago)
 
