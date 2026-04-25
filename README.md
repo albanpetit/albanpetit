@@ -11,7 +11,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [Makerspace-Amiens/electronic-design](https://github.com/Makerspace-Amiens/electronic-design) -  (1 month ago)
+- [Makerspace-Amiens/electronic-design](https://github.com/Makerspace-Amiens/electronic-design) -  (2 months ago)
 - [Makerspace-Amiens/kicad-library](https://github.com/Makerspace-Amiens/kicad-library) -  (2 months ago)
 - [albanpetit/macropad](https://github.com/albanpetit/macropad) -  (5 months ago)
 - [albanpetit/3d-printed-projects](https://github.com/albanpetit/3d-printed-projects) - Here is the repository where I share my 3D printing creations and designs. Here, you&#39;ll find models, 3MF files, instructions, and tips to help you successfully print your projects. (9 months ago)
