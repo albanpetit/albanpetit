@@ -12,7 +12,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ## 👷 Check out what I'm currently working on
 
 - [albanpetit/labotager](https://github.com/albanpetit/labotager) -  (1 week ago)
-- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 week ago)
+- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (2 weeks ago)
 - [Makerspace-Amiens-2025-26/MachineThatDraws-Groupe03](https://github.com/Makerspace-Amiens-2025-26/MachineThatDraws-Groupe03) -  (2 weeks ago)
 - [Makerspace-Amiens-2025-26/MachineThatDraws-Groupe07](https://github.com/Makerspace-Amiens-2025-26/MachineThatDraws-Groupe07) -  (2 weeks ago)
 - [Makerspace-Amiens-2025-26/MachineThatDraws-Groupe06](https://github.com/Makerspace-Amiens-2025-26/MachineThatDraws-Groupe06) -  (2 weeks ago)
