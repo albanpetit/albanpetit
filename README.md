@@ -14,8 +14,8 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 week ago)
 - [albanpetit/macropad](https://github.com/albanpetit/macropad) -  (2 weeks ago)
 - [albanpetit/labotager](https://github.com/albanpetit/labotager) -  (1 month ago)
+- [Makerspace-Amiens-2025-26/MachineThatDraws-Groupe10](https://github.com/Makerspace-Amiens-2025-26/MachineThatDraws-Groupe10) -  (1 month ago)
 - [Makerspace-Amiens-2025-26/MachineThatDraws-Groupe06](https://github.com/Makerspace-Amiens-2025-26/MachineThatDraws-Groupe06) -  (1 month ago)
-- [Makerspace-Amiens-2025-26/MachineThatDraws-Groupe07](https://github.com/Makerspace-Amiens-2025-26/MachineThatDraws-Groupe07) -  (1 month ago)
 
 
 
