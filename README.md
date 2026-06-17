@@ -11,7 +11,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/macropad](https://github.com/albanpetit/macropad) -  (2 days ago)
+- [albanpetit/makerpad](https://github.com/albanpetit/makerpad) - A fully open-source macropad built from scratch custom PCB, 3D-printed enclosure, and embedded firmware. 20 programmable keys, two rotary encoders, a 2&#34; color display driven by LVGL, and 22 addressable RGB LEDs, all running on an RP2040. (3 days ago)
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (3 weeks ago)
 - [albanpetit/labotager](https://github.com/albanpetit/labotager) -  (1 month ago)
 - [Makerspace-Amiens-2025-26/MachineThatDraws-Groupe10](https://github.com/Makerspace-Amiens-2025-26/MachineThatDraws-Groupe10) -  (1 month ago)
@@ -22,7 +22,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ## 🌱 My latest projects
 
 - [albanpetit/labotager](https://github.com/albanpetit/labotager) - 
-- [albanpetit/macropad](https://github.com/albanpetit/macropad) - 
+- [albanpetit/makerpad](https://github.com/albanpetit/makerpad) - A fully open-source macropad built from scratch custom PCB, 3D-printed enclosure, and embedded firmware. 20 programmable keys, two rotary encoders, a 2&#34; color display driven by LVGL, and 22 addressable RGB LEDs, all running on an RP2040.
 - [albanpetit/10inch-rack](https://github.com/albanpetit/10inch-rack) - 
 - [albanpetit/3d-printed-projects](https://github.com/albanpetit/3d-printed-projects) - Here is the repository where I share my 3D printing creations and designs. Here, you&#39;ll find models, 3MF files, instructions, and tips to help you successfully print your projects.
 - [albanpetit/adxl335](https://github.com/albanpetit/adxl335) - Here is the repository of one of my electronic projects, a rather simple electronic card around a MEMS accelerometer: ADXL335. MEMS accelerometers are compact devices that exploit microfabrication technology to integrate mechanical elements, sensors, actuators, and electronics on a tiny silicon chip. 
