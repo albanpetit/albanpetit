@@ -11,9 +11,9 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [Makerspace-Amiens/makerspace-doc](https://github.com/Makerspace-Amiens/makerspace-doc) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 week ago)
-- [albanpetit/labotager](https://github.com/albanpetit/labotager) -  (2 weeks ago)
-- [albanpetit/makerpad](https://github.com/albanpetit/makerpad) - A fully open-source macropad built from scratch custom PCB, 3D-printed enclosure, and embedded firmware. 20 programmable keys, two rotary encoders, a 2&#34; color display driven by LVGL, and 22 addressable RGB LEDs, all running on an RP2040. (3 weeks ago)
+- [Makerspace-Amiens/makerspace-doc](https://github.com/Makerspace-Amiens/makerspace-doc) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (2 weeks ago)
+- [albanpetit/labotager](https://github.com/albanpetit/labotager) -  (1 month ago)
+- [albanpetit/makerpad](https://github.com/albanpetit/makerpad) - A fully open-source macropad built from scratch custom PCB, 3D-printed enclosure, and embedded firmware. 20 programmable keys, two rotary encoders, a 2&#34; color display driven by LVGL, and 22 addressable RGB LEDs, all running on an RP2040. (1 month ago)
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 month ago)
 - [Makerspace-Amiens-2025-26/MachineThatDraws-Groupe09](https://github.com/Makerspace-Amiens-2025-26/MachineThatDraws-Groupe09) -  (2 months ago)
 
@@ -31,16 +31,12 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 
 
-## 🔨 My recent Pull Requests
-
-- [README update of container host OS support](https://github.com/prenone/platformio-vscode-devcontainer/pull/10) on [prenone/platformio-vscode-devcontainer](https://github.com/prenone/platformio-vscode-devcontainer) (2 years ago)
-
 
 
 ## ⭐ Recent Stars
 
-- [aewallin/DSOXLAN](https://github.com/aewallin/DSOXLAN) - open source hardware DSOXLAN Ethernet module for Agilent/Keysight DSO-X 2000 and 3000 series oscilloscopes (2 weeks ago)
-- [inertiajs/inertia-rails](https://github.com/inertiajs/inertia-rails) - The Rails adapter for Inertia.js. (6 months ago)
+- [aewallin/DSOXLAN](https://github.com/aewallin/DSOXLAN) - open source hardware DSOXLAN Ethernet module for Agilent/Keysight DSO-X 2000 and 3000 series oscilloscopes (1 month ago)
+- [inertiajs/inertia-rails](https://github.com/inertiajs/inertia-rails) - The Rails adapter for Inertia.js. (7 months ago)
 - [axiometa/BrodBoost-PD](https://github.com/axiometa/BrodBoost-PD) - Breadboard Powersupply with Power Delivery. Available Voltages 20,15,12,9,5. Based on CYPD3177 Chip (1 year ago)
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning (1 year ago)
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (1 year ago)
