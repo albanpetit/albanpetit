@@ -11,7 +11,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [Makerspace-Amiens/makerspace-doc](https://github.com/Makerspace-Amiens/makerspace-doc) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (2 weeks ago)
+- [Makerspace-Amiens/makerspace-doc](https://github.com/Makerspace-Amiens/makerspace-doc) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 day ago)
 - [albanpetit/labotager](https://github.com/albanpetit/labotager) -  (1 month ago)
 - [albanpetit/makerpad](https://github.com/albanpetit/makerpad) - A fully open-source macropad built from scratch custom PCB, 3D-printed enclosure, and embedded firmware. 20 programmable keys, two rotary encoders, a 2&#34; color display driven by LVGL, and 22 addressable RGB LEDs, all running on an RP2040. (1 month ago)
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 month ago)
