@@ -35,7 +35,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## ⭐ Recent Stars
 
-- [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js (6 days ago)
+- [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js (1 week ago)
 - [aewallin/DSOXLAN](https://github.com/aewallin/DSOXLAN) - open source hardware DSOXLAN Ethernet module for Agilent/Keysight DSO-X 2000 and 3000 series oscilloscopes (2 months ago)
 - [inertiajs/inertia-rails](https://github.com/inertiajs/inertia-rails) - The Rails adapter for Inertia.js. (8 months ago)
 - [axiometa/BrodBoost-PD](https://github.com/axiometa/BrodBoost-PD) - Breadboard Powersupply with Power Delivery. Available Voltages 20,15,12,9,5. Based on CYPD3177 Chip (2 years ago)
