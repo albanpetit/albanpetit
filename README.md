@@ -35,7 +35,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## ⭐ Recent Stars
 
-- [runeworks-engineering/stembot](https://github.com/runeworks-engineering/stembot) - Un atelier de programmation par blocs pour les robots pédagogiques. Dessine une figure, simule-la à l’écran, envoie-la au robot. Libre et open source, rien à installer. (1 day ago)
+- [runeworks-engineering/stembot](https://github.com/runeworks-engineering/stembot) - Un atelier de programmation par blocs pour les robots pédagogiques. Dessine une figure, simule-la à l’écran, envoie-la au robot. Libre et open source, rien à installer. (2 days ago)
 - [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js (2 weeks ago)
 - [aewallin/DSOXLAN](https://github.com/aewallin/DSOXLAN) - open source hardware DSOXLAN Ethernet module for Agilent/Keysight DSO-X 2000 and 3000 series oscilloscopes (2 months ago)
 - [inertiajs/inertia-rails](https://github.com/inertiajs/inertia-rails) - The Rails adapter for Inertia.js. (8 months ago)
