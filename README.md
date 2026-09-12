@@ -13,7 +13,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 - [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 week ago)
 - [albanpetit/labotager](https://github.com/albanpetit/labotager) -  (2 months ago)
-- [albanpetit/makerpad](https://github.com/albanpetit/makerpad) - A fully open-source macropad built from scratch custom PCB, 3D-printed enclosure, and embedded firmware. 20 programmable keys, two rotary encoders, a 2&#34; color display driven by LVGL, and 22 addressable RGB LEDs, all running on an RP2040. (2 months ago)
+- [albanpetit/makerpad](https://github.com/albanpetit/makerpad) - A fully open-source macropad built from scratch custom PCB, 3D-printed enclosure, and embedded firmware. 20 programmable keys, two rotary encoders, a 2&#34; color display driven by LVGL, and 22 addressable RGB LEDs, all running on an RP2040. (3 months ago)
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (3 months ago)
 - [Makerspace-Amiens-2025-26/MachineThatDraws-Groupe09](https://github.com/Makerspace-Amiens-2025-26/MachineThatDraws-Groupe09) -  (4 months ago)
 
@@ -35,7 +35,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## ⭐ Recent Stars
 
-- [runeworks-engineering/stembot](https://github.com/runeworks-engineering/stembot) - Un atelier de programmation par blocs pour les robots pédagogiques. Dessine une figure, simule-la à l’écran, envoie-la au robot. Libre et open source, rien à installer. (2 days ago)
+- [runeworks-engineering/stembot](https://github.com/runeworks-engineering/stembot) - Un atelier de programmation par blocs pour les robots pédagogiques. Dessine une figure, simule-la à l’écran, envoie-la au robot. Libre et open source, rien à installer. (3 days ago)
 - [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js (2 weeks ago)
 - [aewallin/DSOXLAN](https://github.com/aewallin/DSOXLAN) - open source hardware DSOXLAN Ethernet module for Agilent/Keysight DSO-X 2000 and 3000 series oscilloscopes (2 months ago)
 - [inertiajs/inertia-rails](https://github.com/inertiajs/inertia-rails) - The Rails adapter for Inertia.js. (8 months ago)
