@@ -11,7 +11,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 day ago)
+- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (2 days ago)
 - [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 week ago)
 - [albanpetit/paperflux](https://github.com/albanpetit/paperflux) - Open-hardware desk printer that prints your weekly GitHub stats on a thermal ticket: custom ESP32-C3 board with USB-C PD, PlatformIO firmware, Ruby web renderer, and a FreeCAD enclosure. (1 week ago)
 - [albanpetit/makerpad](https://github.com/albanpetit/makerpad) - A fully open-source macropad built from scratch custom PCB, 3D-printed enclosure, and embedded firmware. 20 programmable keys, two rotary encoders, a 2&#34; color display driven by LVGL, and 22 addressable RGB LEDs, all running on an RP2040. (3 months ago)
@@ -35,8 +35,8 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## ⭐ Recent Stars
 
-- [runeworks-engineering/stembot](https://github.com/runeworks-engineering/stembot) - Un atelier de programmation par blocs pour les robots pédagogiques. Dessine une figure, simule-la à l’écran, envoie-la au robot. Libre et open source, rien à installer. (1 week ago)
-- [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js (3 weeks ago)
+- [runeworks-engineering/stembot](https://github.com/runeworks-engineering/stembot) - Un atelier de programmation par blocs pour les robots pédagogiques. Dessine une figure, simule-la à l’écran, envoie-la au robot. Libre et open source, rien à installer. (2 weeks ago)
+- [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js (4 weeks ago)
 - [aewallin/DSOXLAN](https://github.com/aewallin/DSOXLAN) - open source hardware DSOXLAN Ethernet module for Agilent/Keysight DSO-X 2000 and 3000 series oscilloscopes (3 months ago)
 - [inertiajs/inertia-rails](https://github.com/inertiajs/inertia-rails) - The Rails adapter for Inertia.js. (9 months ago)
 - [axiometa/BrodBoost-PD](https://github.com/axiometa/BrodBoost-PD) - Breadboard Powersupply with Power Delivery. Available Voltages 20,15,12,9,5. Based on CYPD3177 Chip (2 years ago)
