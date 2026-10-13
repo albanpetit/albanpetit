@@ -11,10 +11,10 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (4 days ago)
-- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (5 days ago)
-- [albanpetit/rack-10inch](https://github.com/albanpetit/rack-10inch) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports. (6 days ago)
-- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 week ago)
+- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 day ago)
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (1 day ago)
+- [albanpetit/rack-10inch](https://github.com/albanpetit/rack-10inch) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports. (1 week ago)
+- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (2 weeks ago)
 - [albanpetit/paperflux](https://github.com/albanpetit/paperflux) - Open-hardware desk printer that prints your weekly GitHub stats on a thermal ticket: custom ESP32-C3 board with USB-C PD, PlatformIO firmware, Ruby web renderer, and a FreeCAD enclosure. (4 weeks ago)
 
 
@@ -31,17 +31,17 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## 🔭 Latest releases I've contributed to
 
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) ([v0.8.0](https://github.com/albanpetit/makerstorage/releases/tag/v0.8.0), 4 days ago) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) ([v0.8.0](https://github.com/albanpetit/makerstorage/releases/tag/v0.8.0), 5 days ago) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io
 
 
 
 ## 🔨 My recent Pull Requests
 
-- [feat(site db infra): add a landing page, multi-arch image, and first-boot seed fix](https://github.com/albanpetit/makerstorage/pull/81) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
-- [fix(api db model page ui): fix second code audit findings](https://github.com/albanpetit/makerstorage/pull/79) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
-- [test(auth): accept reset tokens starting with a dash or underscore](https://github.com/albanpetit/makerstorage/pull/78) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
-- [deps(build): apply open Dependabot gem updates](https://github.com/albanpetit/makerstorage/pull/77) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
-- [feat(api model page infra): fix code audit findings](https://github.com/albanpetit/makerstorage/pull/76) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
+- [perf(mermaid): pre-render diagrams to theme-aware SVG](https://github.com/albanpetit/albanpetit.com/pull/25) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (1 day ago)
+- [feat(api page): email digest of low-stock and late-order alerts](https://github.com/albanpetit/makerstorage/pull/90) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [feat(db model api page): reserve stock for confirmed projects](https://github.com/albanpetit/makerstorage/pull/89) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [build(deps): bump react, react-dom and their types to 19.3](https://github.com/albanpetit/albanpetit.com/pull/24) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (1 day ago)
+- [feat(ui): animated circuit board background](https://github.com/albanpetit/albanpetit.com/pull/23) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (1 day ago)
 
 
 
@@ -51,7 +51,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 - [runeworks-engineering/stembot](https://github.com/runeworks-engineering/stembot) - Un atelier de programmation par blocs pour les robots pédagogiques. Dessine une figure, simule-la à l’écran, envoie-la au robot. Libre et open source, rien à installer. (1 month ago)
 - [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js (1 month ago)
 - [aewallin/DSOXLAN](https://github.com/aewallin/DSOXLAN) - open source hardware DSOXLAN Ethernet module for Agilent/Keysight DSO-X 2000 and 3000 series oscilloscopes (3 months ago)
-- [inertiajs/inertia-rails](https://github.com/inertiajs/inertia-rails) - The Rails adapter for Inertia.js. (9 months ago)
+- [inertiajs/inertia-rails](https://github.com/inertiajs/inertia-rails) - The Rails adapter for Inertia.js. (10 months ago)
 
 
 # Things I use
