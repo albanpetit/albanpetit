@@ -11,8 +11,8 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (3 days ago)
-- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (3 days ago)
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (4 days ago)
+- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (4 days ago)
 - [albanpetit/rack-10inch](https://github.com/albanpetit/rack-10inch) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports. (1 week ago)
 - [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (2 weeks ago)
 - [albanpetit/paperflux](https://github.com/albanpetit/paperflux) - Open-hardware desk printer that prints your weekly GitHub stats on a thermal ticket: custom ESP32-C3 board with USB-C PD, PlatformIO firmware, Ruby web renderer, and a FreeCAD enclosure. (1 month ago)
@@ -37,11 +37,11 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## 🔨 My recent Pull Requests
 
-- [perf(mermaid): pre-render diagrams to theme-aware SVG](https://github.com/albanpetit/albanpetit.com/pull/25) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (3 days ago)
-- [feat(api page): email digest of low-stock and late-order alerts](https://github.com/albanpetit/makerstorage/pull/90) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (3 days ago)
-- [feat(db model api page): reserve stock for confirmed projects](https://github.com/albanpetit/makerstorage/pull/89) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (3 days ago)
-- [build(deps): bump react, react-dom and their types to 19.3](https://github.com/albanpetit/albanpetit.com/pull/24) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (3 days ago)
-- [feat(ui): animated circuit board background](https://github.com/albanpetit/albanpetit.com/pull/23) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (3 days ago)
+- [feat(api auth page): read-only MCP server so Claude can query the inventory](https://github.com/albanpetit/makerstorage/pull/91) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [perf(mermaid): pre-render diagrams to theme-aware SVG](https://github.com/albanpetit/albanpetit.com/pull/25) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (4 days ago)
+- [feat(api page): email digest of low-stock and late-order alerts](https://github.com/albanpetit/makerstorage/pull/90) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
+- [feat(db model api page): reserve stock for confirmed projects](https://github.com/albanpetit/makerstorage/pull/89) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
+- [build(deps): bump react, react-dom and their types to 19.3](https://github.com/albanpetit/albanpetit.com/pull/24) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (4 days ago)
 
 
 
