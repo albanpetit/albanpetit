@@ -11,10 +11,10 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (3 days ago)
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (1 day ago)
+- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 day ago)
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 week ago)
-- [albanpetit/rack-10inch](https://github.com/albanpetit/rack-10inch) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports. (1 week ago)
-- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (2 weeks ago)
+- [albanpetit/rack-10inch](https://github.com/albanpetit/rack-10inch) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports. (2 weeks ago)
 - [albanpetit/paperflux](https://github.com/albanpetit/paperflux) - Open-hardware desk printer that prints your weekly GitHub stats on a thermal ticket: custom ESP32-C3 board with USB-C PD, PlatformIO firmware, Ruby web renderer, and a FreeCAD enclosure. (1 month ago)
 
 
@@ -31,23 +31,23 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## 🔭 Latest releases I've contributed to
 
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) ([v0.9.0](https://github.com/albanpetit/makerstorage/releases/tag/v0.9.0), 3 days ago) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) ([v0.10.0](https://github.com/albanpetit/makerstorage/releases/tag/v0.10.0), 1 day ago) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io
 
 
 
 ## 🔨 My recent Pull Requests
 
-- [fix(api model): apply the third code audit fixes before v0.9.0](https://github.com/albanpetit/makerstorage/pull/92) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (3 days ago)
-- [feat(api auth page): read-only MCP server so Claude can query the inventory](https://github.com/albanpetit/makerstorage/pull/91) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
-- [perf(mermaid): pre-render diagrams to theme-aware SVG](https://github.com/albanpetit/albanpetit.com/pull/25) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (1 week ago)
-- [feat(api page): email digest of low-stock and late-order alerts](https://github.com/albanpetit/makerstorage/pull/90) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 week ago)
-- [feat(db model api page): reserve stock for confirmed projects](https://github.com/albanpetit/makerstorage/pull/89) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 week ago)
+- [test(system): reset the window size before each system test](https://github.com/albanpetit/makerstorage/pull/102) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [test(parts): open the category picker by id in the new-bag system test](https://github.com/albanpetit/makerstorage/pull/101) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [feat(api ui): searchable tree picker for storage zones everywhere](https://github.com/albanpetit/makerstorage/pull/100) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [feat(settings): preview IPN reassignment and keep unbagged references](https://github.com/albanpetit/makerstorage/pull/99) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [fix(box &amp; bag): let a part leave a bag it shares with another part](https://github.com/albanpetit/makerstorage/pull/98) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
 
 
 
 ## ⭐ Recent Stars
 
-- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (2 days ago)
+- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (3 days ago)
 - [albanpetit/paperflux](https://github.com/albanpetit/paperflux) - Open-hardware desk printer that prints your weekly GitHub stats on a thermal ticket: custom ESP32-C3 board with USB-C PD, PlatformIO firmware, Ruby web renderer, and a FreeCAD enclosure. (3 weeks ago)
 - [runeworks-engineering/stembot](https://github.com/runeworks-engineering/stembot) - Un atelier de programmation par blocs pour les robots pédagogiques. Dessine une figure, simule-la à l’écran, envoie-la au robot. Libre et open source, rien à installer. (1 month ago)
 - [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js (1 month ago)
