@@ -11,8 +11,8 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (today)
-- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (3 days ago)
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (1 day ago)
+- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (4 days ago)
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 week ago)
 - [albanpetit/rack-10inch](https://github.com/albanpetit/rack-10inch) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports. (2 weeks ago)
 - [albanpetit/paperflux](https://github.com/albanpetit/paperflux) - Open-hardware desk printer that prints your weekly GitHub stats on a thermal ticket: custom ESP32-C3 board with USB-C PD, PlatformIO firmware, Ruby web renderer, and a FreeCAD enclosure. (1 month ago)
@@ -31,24 +31,24 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## 🔭 Latest releases I've contributed to
 
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) ([v0.10.0](https://github.com/albanpetit/makerstorage/releases/tag/v0.10.0), 3 days ago) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) ([v0.11.0](https://github.com/albanpetit/makerstorage/releases/tag/v0.11.0), 1 day ago) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io
 
 
 
 ## 🔨 My recent Pull Requests
 
-- [feat(i18n): french interface](https://github.com/albanpetit/makerstorage/pull/115) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
-- [feat(parts): find duplicate parts and merge them into one](https://github.com/albanpetit/makerstorage/pull/114) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
-- [feat(dashboard): activity chart, needs-attention list, orders, projects and most-used parts](https://github.com/albanpetit/makerstorage/pull/113) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
-- [feat(projects): link a project to a github repository and fetch its kicad files and bom from it](https://github.com/albanpetit/makerstorage/pull/112) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
-- [feat(labels): print directly to network label printers (Brother QL, Zebra ZPL)](https://github.com/albanpetit/makerstorage/pull/111) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [feat(scanner): offline scanner (idea AA)](https://github.com/albanpetit/makerstorage/pull/123) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [feat(prices): price breaks, purchase price history and stock value](https://github.com/albanpetit/makerstorage/pull/122) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [feat(parts): attach files of any type to a part](https://github.com/albanpetit/makerstorage/pull/121) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [feat(activity): activity log for admins](https://github.com/albanpetit/makerstorage/pull/120) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [feat(alerts): track consumption and suggest low-stock thresholds](https://github.com/albanpetit/makerstorage/pull/119) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
 
 
 
 ## ⭐ Recent Stars
 
-- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (5 days ago)
-- [albanpetit/paperflux](https://github.com/albanpetit/paperflux) - Open-hardware desk printer that prints your weekly GitHub stats on a thermal ticket: custom ESP32-C3 board with USB-C PD, PlatformIO firmware, Ruby web renderer, and a FreeCAD enclosure. (4 weeks ago)
+- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (6 days ago)
+- [albanpetit/paperflux](https://github.com/albanpetit/paperflux) - Open-hardware desk printer that prints your weekly GitHub stats on a thermal ticket: custom ESP32-C3 board with USB-C PD, PlatformIO firmware, Ruby web renderer, and a FreeCAD enclosure. (1 month ago)
 - [runeworks-engineering/stembot](https://github.com/runeworks-engineering/stembot) - Un atelier de programmation par blocs pour les robots pédagogiques. Dessine une figure, simule-la à l’écran, envoie-la au robot. Libre et open source, rien à installer. (1 month ago)
 - [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js (1 month ago)
 - [aewallin/DSOXLAN](https://github.com/aewallin/DSOXLAN) - open source hardware DSOXLAN Ethernet module for Agilent/Keysight DSO-X 2000 and 3000 series oscilloscopes (4 months ago)
