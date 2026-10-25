@@ -11,8 +11,8 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (1 day ago)
-- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (5 days ago)
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (today)
+- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (6 days ago)
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 week ago)
 - [albanpetit/rack-10inch](https://github.com/albanpetit/rack-10inch) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports. (2 weeks ago)
 - [albanpetit/paperflux](https://github.com/albanpetit/paperflux) - Open-hardware desk printer that prints your weekly GitHub stats on a thermal ticket: custom ESP32-C3 board with USB-C PD, PlatformIO firmware, Ruby web renderer, and a FreeCAD enclosure. (1 month ago)
@@ -31,17 +31,17 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## 🔭 Latest releases I've contributed to
 
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) ([v0.12.0](https://github.com/albanpetit/makerstorage/releases/tag/v0.12.0), 1 day ago) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) ([v0.12.0](https://github.com/albanpetit/makerstorage/releases/tag/v0.12.0), 2 days ago) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io
 
 
 
 ## 🔨 My recent Pull Requests
 
-- [feat(projects): multi-level assemblies (sub-assemblies in BOMs)](https://github.com/albanpetit/makerstorage/pull/128) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
-- [chore(ruby): move to Ruby 3.4.12 so CI can install it](https://github.com/albanpetit/makerstorage/pull/127) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
-- [feat(parts): fill in a new part from photos or a datasheet with Claude](https://github.com/albanpetit/makerstorage/pull/126) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
-- [feat(parts): alternative parts and equivalents suggested from parameters](https://github.com/albanpetit/makerstorage/pull/125) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
-- [feat(activity): log changes made through the MCP write tools](https://github.com/albanpetit/makerstorage/pull/124) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [perf: lighter zones and project pages (audit v4 follow-up)](https://github.com/albanpetit/makerstorage/pull/133) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [feat(stock): decimal quantities in a part&#39;s unit (meters, grams, liters)](https://github.com/albanpetit/makerstorage/pull/132) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [fix: resolve the fourth code audit&#39;s findings](https://github.com/albanpetit/makerstorage/pull/131) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [feat(onboarding): templates, first steps and a demo organization](https://github.com/albanpetit/makerstorage/pull/130) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [feat(projects): estimate the cost of building n copies](https://github.com/albanpetit/makerstorage/pull/129) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
 
 
 
@@ -50,7 +50,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (1 week ago)
 - [albanpetit/paperflux](https://github.com/albanpetit/paperflux) - Open-hardware desk printer that prints your weekly GitHub stats on a thermal ticket: custom ESP32-C3 board with USB-C PD, PlatformIO firmware, Ruby web renderer, and a FreeCAD enclosure. (1 month ago)
 - [runeworks-engineering/stembot](https://github.com/runeworks-engineering/stembot) - Un atelier de programmation par blocs pour les robots pédagogiques. Dessine une figure, simule-la à l’écran, envoie-la au robot. Libre et open source, rien à installer. (1 month ago)
-- [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js (1 month ago)
+- [inertiajs/inertia-django](https://github.com/inertiajs/inertia-django) - The Django adapter for Inertia.js (2 months ago)
 - [aewallin/DSOXLAN](https://github.com/aewallin/DSOXLAN) - open source hardware DSOXLAN Ethernet module for Agilent/Keysight DSO-X 2000 and 3000 series oscilloscopes (4 months ago)
 
 
