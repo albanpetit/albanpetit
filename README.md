@@ -37,8 +37,8 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## 🔨 My recent Pull Requests
 
-- [GDPR: self-hosted fonts, account deletion, retention, legal pages](https://github.com/albanpetit/makerstorage/pull/141) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
-- [content(platformio-zed): add tutorial on using PlatformIO in Zed](https://github.com/albanpetit/albanpetit.com/pull/28) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (6 days ago)
+- [GDPR: self-hosted fonts, account deletion, retention, legal pages](https://github.com/albanpetit/makerstorage/pull/141) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (5 days ago)
+- [content(platformio-zed): add tutorial on using PlatformIO in Zed](https://github.com/albanpetit/albanpetit.com/pull/28) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (1 week ago)
 - [fix(ci): install cloudflared from its GitHub release in backup and deploy](https://github.com/albanpetit/makerstorage/pull/140) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 week ago)
 - [fix: invitation expiry no longer shifts by an hour across DST](https://github.com/albanpetit/makerstorage/pull/139) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 week ago)
 - [perf: lighter zones and project pages (audit v4 follow-up)](https://github.com/albanpetit/makerstorage/pull/133) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 week ago)
@@ -47,8 +47,8 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## ⭐ Recent Stars
 
-- [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input. (1 day ago)
-- [Cimos/kicad-druid](https://github.com/Cimos/kicad-druid) - KiCad custom design rules (.kicad_dru) matching JLCPCB and PCBWay manufacturing capabilities (5 days ago)
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input. (2 days ago)
+- [Cimos/kicad-druid](https://github.com/Cimos/kicad-druid) - KiCad custom design rules (.kicad_dru) matching JLCPCB and PCBWay manufacturing capabilities (6 days ago)
 - [LuwuDynamics/xgoduck_hardware](https://github.com/LuwuDynamics/xgoduck_hardware) - Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics&#39; Microduck. Includes mechanical models, PCB designs, a BOM, and an assembly guide. Build it, explore its motion, and make it your own. (1 week ago)
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (2 weeks ago)
 - [albanpetit/paperflux](https://github.com/albanpetit/paperflux) - Open-hardware desk printer that prints your weekly GitHub stats on a thermal ticket: custom ESP32-C3 board with USB-C PD, PlatformIO firmware, Ruby web renderer, and a FreeCAD enclosure. (1 month ago)
