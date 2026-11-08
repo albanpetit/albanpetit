@@ -11,8 +11,8 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (1 day ago)
-- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 day ago)
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (2 days ago)
+- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (2 days ago)
 - [Makerspace-Amiens/workshop-microcontroller](https://github.com/Makerspace-Amiens/workshop-microcontroller) -  (1 week ago)
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (3 weeks ago)
 - [albanpetit/rack-10inch](https://github.com/albanpetit/rack-10inch) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports. (1 month ago)
@@ -37,7 +37,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## 🔨 My recent Pull Requests
 
-- [fix(deps): bump rails 8.1.4.1, rack, nokogiri and others for security advisories](https://github.com/albanpetit/makerstorage/pull/146) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 day ago)
+- [fix(deps): bump rails 8.1.4.1, rack, nokogiri and others for security advisories](https://github.com/albanpetit/makerstorage/pull/146) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (2 days ago)
 - [GDPR: self-hosted fonts, account deletion, retention, legal pages](https://github.com/albanpetit/makerstorage/pull/141) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 week ago)
 - [content(platformio-zed): add tutorial on using PlatformIO in Zed](https://github.com/albanpetit/albanpetit.com/pull/28) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (1 week ago)
 - [fix(ci): install cloudflared from its GitHub release in backup and deploy](https://github.com/albanpetit/makerstorage/pull/140) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 week ago)
@@ -47,7 +47,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## ⭐ Recent Stars
 
-- [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input. (5 days ago)
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input. (6 days ago)
 - [Cimos/kicad-druid](https://github.com/Cimos/kicad-druid) - KiCad custom design rules (.kicad_dru) matching JLCPCB and PCBWay manufacturing capabilities (1 week ago)
 - [LuwuDynamics/xgoduck_hardware](https://github.com/LuwuDynamics/xgoduck_hardware) - Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics&#39; Microduck. Includes mechanical models, PCB designs, a BOM, and an assembly guide. Build it, explore its motion, and make it your own. (1 week ago)
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (3 weeks ago)
