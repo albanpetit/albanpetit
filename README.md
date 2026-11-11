@@ -12,8 +12,8 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ## 👷 Check out what I'm currently working on
 
 - [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 day ago)
-- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (2 days ago)
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (4 days ago)
+- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (3 days ago)
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (5 days ago)
 - [Makerspace-Amiens/workshop-microcontroller](https://github.com/Makerspace-Amiens/workshop-microcontroller) -  (2 weeks ago)
 - [albanpetit/rack-10inch](https://github.com/albanpetit/rack-10inch) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports. (1 month ago)
 
@@ -37,9 +37,9 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## 🔨 My recent Pull Requests
 
-- [fix(deps): bump rails 8.1.4.1, rack, nokogiri and others for security advisories](https://github.com/albanpetit/makerstorage/pull/146) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
+- [fix(deps): bump rails 8.1.4.1, rack, nokogiri and others for security advisories](https://github.com/albanpetit/makerstorage/pull/146) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (5 days ago)
 - [GDPR: self-hosted fonts, account deletion, retention, legal pages](https://github.com/albanpetit/makerstorage/pull/141) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 week ago)
-- [content(platformio-zed): add tutorial on using PlatformIO in Zed](https://github.com/albanpetit/albanpetit.com/pull/28) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (1 week ago)
+- [content(platformio-zed): add tutorial on using PlatformIO in Zed](https://github.com/albanpetit/albanpetit.com/pull/28) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (2 weeks ago)
 - [fix(ci): install cloudflared from its GitHub release in backup and deploy](https://github.com/albanpetit/makerstorage/pull/140) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (2 weeks ago)
 - [fix: invitation expiry no longer shifts by an hour across DST](https://github.com/albanpetit/makerstorage/pull/139) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (2 weeks ago)
 
