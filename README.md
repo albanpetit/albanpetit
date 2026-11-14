@@ -11,11 +11,11 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
+- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe14](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe14) -  (1 day ago)
+- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe7](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe7) -  (1 day ago)
 - [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 day ago)
-- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (5 days ago)
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (1 week ago)
-- [Makerspace-Amiens/workshop-microcontroller](https://github.com/Makerspace-Amiens/workshop-microcontroller) -  (2 weeks ago)
-- [albanpetit/rack-10inch](https://github.com/albanpetit/rack-10inch) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports. (1 month ago)
+- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe6](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe6) -  (1 day ago)
+- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe5](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe5) -  (1 day ago)
 
 
 
@@ -50,7 +50,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input. (1 week ago)
 - [Cimos/kicad-druid](https://github.com/Cimos/kicad-druid) - KiCad custom design rules (.kicad_dru) matching JLCPCB and PCBWay manufacturing capabilities (2 weeks ago)
 - [LuwuDynamics/xgoduck_hardware](https://github.com/LuwuDynamics/xgoduck_hardware) - Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics&#39; Microduck. Includes mechanical models, PCB designs, a BOM, and an assembly guide. Build it, explore its motion, and make it your own. (2 weeks ago)
-- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (3 weeks ago)
+- [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (4 weeks ago)
 - [albanpetit/paperflux](https://github.com/albanpetit/paperflux) - Open-hardware desk printer that prints your weekly GitHub stats on a thermal ticket: custom ESP32-C3 board with USB-C PD, PlatformIO firmware, Ruby web renderer, and a FreeCAD enclosure. (1 month ago)
 
 
