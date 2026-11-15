@@ -11,11 +11,11 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe14](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe14) -  (1 day ago)
-- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe7](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe7) -  (1 day ago)
-- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 day ago)
-- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe6](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe6) -  (1 day ago)
-- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe5](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe5) -  (1 day ago)
+- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe12](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe12) -  (2 days ago)
+- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe8](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe8) -  (2 days ago)
+- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (2 days ago)
+- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe7](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe7) -  (2 days ago)
+- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe6](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe6) -  (2 days ago)
 
 
 
