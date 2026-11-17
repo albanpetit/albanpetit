@@ -11,21 +11,21 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/homelab](https://github.com/albanpetit/homelab) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports. (1 day ago)
-- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 day ago)
-- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe13](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe13) -  (3 days ago)
-- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe10](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe10) -  (3 days ago)
-- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe9](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe9) -  (3 days ago)
+- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 day ago)
+- [albanpetit/zembed](https://github.com/albanpetit/zembed) -  (1 day ago)
+- [albanpetit/homelab](https://github.com/albanpetit/homelab) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports. (2 days ago)
+- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (2 days ago)
+- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe13](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe13) -  (4 days ago)
 
 
 
 ## 🌱 My latest projects
 
+- [albanpetit/zembed](https://github.com/albanpetit/zembed) - 
 - [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io
 - [albanpetit/makerpad](https://github.com/albanpetit/makerpad) - A fully open-source macropad built from scratch custom PCB, 3D-printed enclosure, and embedded firmware. 20 programmable keys, two rotary encoders, a 2&#34; color display driven by LVGL, and 22 addressable RGB LEDs, all running on an RP2040.
 - [albanpetit/homelab](https://github.com/albanpetit/homelab) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports.
 - [albanpetit/3d-printed-projects](https://github.com/albanpetit/3d-printed-projects) - Here is the repository where I share my 3D printing creations and designs. Here, you&#39;ll find models, 3MF files, instructions, and tips to help you successfully print your projects.
-- [albanpetit/paperflux](https://github.com/albanpetit/paperflux) - Open-hardware desk printer that prints your weekly GitHub stats on a thermal ticket: custom ESP32-C3 board with USB-C PD, PlatformIO firmware, Ruby web renderer, and a FreeCAD enclosure.
 
 
 
@@ -37,11 +37,11 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## 🔨 My recent Pull Requests
 
-- [fix(deps): bump rails 8.1.4.1, rack, nokogiri and others for security advisories](https://github.com/albanpetit/makerstorage/pull/146) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (1 week ago)
-- [GDPR: self-hosted fonts, account deletion, retention, legal pages](https://github.com/albanpetit/makerstorage/pull/141) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (2 weeks ago)
-- [content(platformio-zed): add tutorial on using PlatformIO in Zed](https://github.com/albanpetit/albanpetit.com/pull/28) on [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) (2 weeks ago)
-- [fix(ci): install cloudflared from its GitHub release in backup and deploy](https://github.com/albanpetit/makerstorage/pull/140) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (3 weeks ago)
-- [fix: invitation expiry no longer shifts by an hour across DST](https://github.com/albanpetit/makerstorage/pull/139) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (3 weeks ago)
+- [Add gdb-openocd debug adapter for C and C&#43;&#43; firmware](https://github.com/albanpetit/zembed/pull/5) on [albanpetit/zembed](https://github.com/albanpetit/zembed) (1 day ago)
+- [Stop probe-rs when the debug session ends](https://github.com/albanpetit/zembed/pull/4) on [albanpetit/zembed](https://github.com/albanpetit/zembed) (1 day ago)
+- [Add PlatformIO support: tasks and probe-rs debugging](https://github.com/albanpetit/zembed/pull/3) on [albanpetit/zembed](https://github.com/albanpetit/zembed) (1 day ago)
+- [Add probe-rs debug adapter prototype for embedded Rust](https://github.com/albanpetit/zembed/pull/2) on [albanpetit/zembed](https://github.com/albanpetit/zembed) (1 day ago)
+- [Add probe-rs debug adapter prototype for embedded Rust](https://github.com/albanpetit/zembed/pull/1) on [albanpetit/zembed](https://github.com/albanpetit/zembed) (1 day ago)
 
 
 
