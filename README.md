@@ -11,11 +11,11 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 day ago)
 - [albanpetit/zembed](https://github.com/albanpetit/zembed) -  (1 day ago)
-- [albanpetit/homelab](https://github.com/albanpetit/homelab) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports. (2 days ago)
-- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (2 days ago)
-- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe13](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe13) -  (4 days ago)
+- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 day ago)
+- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (3 days ago)
+- [albanpetit/homelab](https://github.com/albanpetit/homelab) - DIY 10-inch homelab rack inspired by Jeff Geerling: 20x20 aluminium extrusion frame, laser-cut panels and 3D printed parts. FreeCAD sources with STL, STEP and DXF exports. (3 days ago)
+- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe13](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe13) -  (5 days ago)
 
 
 
@@ -37,11 +37,11 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## 🔨 My recent Pull Requests
 
-- [Add gdb-openocd debug adapter for C and C&#43;&#43; firmware](https://github.com/albanpetit/zembed/pull/5) on [albanpetit/zembed](https://github.com/albanpetit/zembed) (1 day ago)
-- [Stop probe-rs when the debug session ends](https://github.com/albanpetit/zembed/pull/4) on [albanpetit/zembed](https://github.com/albanpetit/zembed) (1 day ago)
-- [Add PlatformIO support: tasks and probe-rs debugging](https://github.com/albanpetit/zembed/pull/3) on [albanpetit/zembed](https://github.com/albanpetit/zembed) (1 day ago)
-- [Add probe-rs debug adapter prototype for embedded Rust](https://github.com/albanpetit/zembed/pull/2) on [albanpetit/zembed](https://github.com/albanpetit/zembed) (1 day ago)
-- [Add probe-rs debug adapter prototype for embedded Rust](https://github.com/albanpetit/zembed/pull/1) on [albanpetit/zembed](https://github.com/albanpetit/zembed) (1 day ago)
+- [feat(workshop/microcontroleur): base the CM3 parser on serial text co…](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr/pull/29) on [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) (1 day ago)
+- [Feat/cm3 bus et ouverture](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr/pull/28) on [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) (1 day ago)
+- [Add `zembed init` / `zembed doctor` to generate a project&#39;s .zed configuration](https://github.com/albanpetit/zembed/pull/7) on [albanpetit/zembed](https://github.com/albanpetit/zembed) (1 day ago)
+- [Debug PlatformIO tasks without a debug.json](https://github.com/albanpetit/zembed/pull/6) on [albanpetit/zembed](https://github.com/albanpetit/zembed) (1 day ago)
+- [Add gdb-openocd debug adapter for C and C&#43;&#43; firmware](https://github.com/albanpetit/zembed/pull/5) on [albanpetit/zembed](https://github.com/albanpetit/zembed) (2 days ago)
 
 
 
