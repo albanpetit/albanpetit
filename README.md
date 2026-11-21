@@ -11,11 +11,11 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 day ago)
-- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 day ago)
-- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe13](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe13) -  (2 days ago)
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (2 days ago)
-- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe25](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe25) -  (2 days ago)
+- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (2 days ago)
+- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (2 days ago)
+- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe13](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe13) -  (3 days ago)
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (3 days ago)
+- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe25](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe25) -  (3 days ago)
 
 
 
@@ -31,17 +31,17 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## 🔭 Latest releases I've contributed to
 
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) ([v0.13.0](https://github.com/albanpetit/makerstorage/releases/tag/v0.13.0), 2 days ago) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) ([v0.13.0](https://github.com/albanpetit/makerstorage/releases/tag/v0.13.0), 3 days ago) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io
 
 
 
 ## 🔨 My recent Pull Requests
 
-- [feat(workshop/tinyml): add the AI to TinyML lecture deck and concept](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr/pull/31) on [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) (2 days ago)
-- [feat: i18n](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr/pull/30) on [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) (2 days ago)
-- [fix(deps): bump puma to 8.0.4 for security advisories](https://github.com/albanpetit/makerstorage/pull/154) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (2 days ago)
-- [docs(repo): list v0.13 features and how the project started](https://github.com/albanpetit/makerstorage/pull/153) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (2 days ago)
-- [feat(workshop/microcontroleur): base the CM3 parser on serial text co…](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr/pull/29) on [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) (3 days ago)
+- [feat(workshop/tinyml): add the AI to TinyML lecture deck and concept](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr/pull/31) on [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) (3 days ago)
+- [feat: i18n](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr/pull/30) on [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) (3 days ago)
+- [fix(deps): bump puma to 8.0.4 for security advisories](https://github.com/albanpetit/makerstorage/pull/154) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (3 days ago)
+- [docs(repo): list v0.13 features and how the project started](https://github.com/albanpetit/makerstorage/pull/153) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (3 days ago)
+- [feat(workshop/microcontroleur): base the CM3 parser on serial text co…](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr/pull/29) on [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) (4 days ago)
 
 
 
