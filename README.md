@@ -11,11 +11,11 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (5 days ago)
-- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (5 days ago)
-- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe13](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe13) -  (6 days ago)
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (6 days ago)
-- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe25](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe25) -  (6 days ago)
+- [Makerspace-Amiens/kicad-library](https://github.com/Makerspace-Amiens/kicad-library) -  (1 day ago)
+- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (6 days ago)
+- [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (6 days ago)
+- [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe26](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe26) -  (1 week ago)
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io (1 week ago)
 
 
 
@@ -31,17 +31,17 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## 🔭 Latest releases I've contributed to
 
-- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) ([v0.13.0](https://github.com/albanpetit/makerstorage/releases/tag/v0.13.0), 6 days ago) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io
+- [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) ([v0.13.0](https://github.com/albanpetit/makerstorage/releases/tag/v0.13.0), 1 week ago) - Open-source inventory manager for makerspaces &amp; fablabs, built for electronic components. Website: makerstorage.io · Hosted app: app.makerstorage.io
 
 
 
 ## 🔨 My recent Pull Requests
 
-- [Audit v6: scanner camera leak, oxlint errors, frontend, MCP sweep and coverage tests](https://github.com/albanpetit/makerstorage/pull/161) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (3 days ago)
-- [Audit v6: one CSV import at a time, queued imports kept](https://github.com/albanpetit/makerstorage/pull/160) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (3 days ago)
-- [Audit v6: organization cap, signed datasheet URLs, server-side part search, borrower privacy, CI hardening](https://github.com/albanpetit/makerstorage/pull/159) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (3 days ago)
-- [perf(scanner): faster QR code resolution](https://github.com/albanpetit/makerstorage/pull/158) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (3 days ago)
-- [test: tenant isolation sweep, frontend unit tests and lint, supplier HTTP coverage](https://github.com/albanpetit/makerstorage/pull/157) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (3 days ago)
+- [Audit v6: scanner camera leak, oxlint errors, frontend, MCP sweep and coverage tests](https://github.com/albanpetit/makerstorage/pull/161) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
+- [Audit v6: one CSV import at a time, queued imports kept](https://github.com/albanpetit/makerstorage/pull/160) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
+- [Audit v6: organization cap, signed datasheet URLs, server-side part search, borrower privacy, CI hardening](https://github.com/albanpetit/makerstorage/pull/159) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
+- [perf(scanner): faster QR code resolution](https://github.com/albanpetit/makerstorage/pull/158) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
+- [test: tenant isolation sweep, frontend unit tests and lint, supplier HTTP coverage](https://github.com/albanpetit/makerstorage/pull/157) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (4 days ago)
 
 
 
@@ -49,7 +49,7 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input. (3 weeks ago)
 - [Cimos/kicad-druid](https://github.com/Cimos/kicad-druid) - KiCad custom design rules (.kicad_dru) matching JLCPCB and PCBWay manufacturing capabilities (3 weeks ago)
-- [LuwuDynamics/xgoduck_hardware](https://github.com/LuwuDynamics/xgoduck_hardware) - Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics&#39; Microduck. Includes mechanical models, PCB designs, a BOM, and an assembly guide. Build it, explore its motion, and make it your own. (4 weeks ago)
+- [LuwuDynamics/xgoduck_hardware](https://github.com/LuwuDynamics/xgoduck_hardware) - Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics&#39; Microduck. Includes mechanical models, PCB designs, a BOM, and an assembly guide. Build it, explore its motion, and make it your own. (1 month ago)
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. (1 month ago)
 - [albanpetit/paperflux](https://github.com/albanpetit/paperflux) - Open-hardware desk printer that prints your weekly GitHub stats on a thermal ticket: custom ESP32-C3 board with USB-C PD, PlatformIO firmware, Ruby web renderer, and a FreeCAD enclosure. (2 months ago)
 
