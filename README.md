@@ -11,8 +11,8 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 ---
 ## 👷 Check out what I'm currently working on
 
-- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (1 day ago)
-- [Makerspace-Amiens/kicad-library](https://github.com/Makerspace-Amiens/kicad-library) -  (2 days ago)
+- [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) - Site de Documentation du MakerSpace d&#39;UniLaSalle Amiens (2 days ago)
+- [Makerspace-Amiens/kicad-library](https://github.com/Makerspace-Amiens/kicad-library) -  (3 days ago)
 - [albanpetit/albanpetit.com](https://github.com/albanpetit/albanpetit.com) - Here is the repository for my personal website where I share my projects on various topics, including electronics, web development, and a lot of things related to the Maker world,  some tutorials, experiences, and information are also available. (1 week ago)
 - [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe26](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe26) -  (1 week ago)
 - [Makerspace-Amiens-2026-27/Microcontroller2627-Groupe25](https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe25) -  (1 week ago)
@@ -37,11 +37,11 @@ I maintain a personal blog on which  I share my projects on various topics, incl
 
 ## 🔨 My recent Pull Requests
 
-- [feat(workshop/microcontroleur): animate the UART, I2C, SPI and CAN buses](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr/pull/32) on [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) (1 day ago)
-- [Audit v6: scanner camera leak, oxlint errors, frontend, MCP sweep and coverage tests](https://github.com/albanpetit/makerstorage/pull/161) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (5 days ago)
-- [Audit v6: one CSV import at a time, queued imports kept](https://github.com/albanpetit/makerstorage/pull/160) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (5 days ago)
-- [Audit v6: organization cap, signed datasheet URLs, server-side part search, borrower privacy, CI hardening](https://github.com/albanpetit/makerstorage/pull/159) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (5 days ago)
-- [perf(scanner): faster QR code resolution](https://github.com/albanpetit/makerstorage/pull/158) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (5 days ago)
+- [feat(workshop/microcontroleur): animate the UART, I2C, SPI and CAN buses](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr/pull/32) on [Makerspace-Amiens/doc.makerspace-amiens.fr](https://github.com/Makerspace-Amiens/doc.makerspace-amiens.fr) (2 days ago)
+- [Audit v6: scanner camera leak, oxlint errors, frontend, MCP sweep and coverage tests](https://github.com/albanpetit/makerstorage/pull/161) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (6 days ago)
+- [Audit v6: one CSV import at a time, queued imports kept](https://github.com/albanpetit/makerstorage/pull/160) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (6 days ago)
+- [Audit v6: organization cap, signed datasheet URLs, server-side part search, borrower privacy, CI hardening](https://github.com/albanpetit/makerstorage/pull/159) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (6 days ago)
+- [perf(scanner): faster QR code resolution](https://github.com/albanpetit/makerstorage/pull/158) on [albanpetit/makerstorage](https://github.com/albanpetit/makerstorage) (6 days ago)
 
 
 
